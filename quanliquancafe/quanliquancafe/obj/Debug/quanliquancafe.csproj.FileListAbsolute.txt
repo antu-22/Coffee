@@ -1,0 +1,40 @@
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe.config
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.pdb
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.flogin.resources
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.Properties.Resources.resources
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.exe
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.pdb
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.ftablemanager.resources
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAccountProfile.resources
+C:\Users\admin\source\repos\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAdmin.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe.config
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.pdb
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAccountProfile.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAdmin.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.flogin.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.ftablemanager.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.Properties.Resources.resources
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.exe
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Desktop\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.pdb
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe.config
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.exe
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\bin\Debug\quanliquancafe.pdb
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.AssemblyReference.cache
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.SuggestedBindingRedirects.cache
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAccountProfile.resources
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.fAdmin.resources
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.flogin.resources
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.ftablemanager.resources
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.Properties.Resources.resources
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.GenerateResource.cache
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.csproj.CoreCompileInputs.cache
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.exe
+D:\download\cơ sở ngành\kĩ thuật pmud\quanliquancafe\quanliquancafe\obj\Debug\quanliquancafe.pdb
